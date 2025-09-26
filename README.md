@@ -26,13 +26,13 @@
 
 ---
 
-## 📈 **GitHub 통계**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkj06&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+### 📫 Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkj960610@gmail.com)](nkj960610@gmail.com)
 
 ---
 
-### 📫 Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkj960610@gmail.com)](nkj960610@gmail.com)
+## 📈 **GitHub 통계**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkj06&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com) -->
 
