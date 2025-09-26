@@ -7,7 +7,7 @@ kt Colud TECH UP 풀스택
 ## 🛠️ 기술 스택
 
 ### 언어
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자명&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkj06&layout=compact&theme=radical)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
