@@ -2,9 +2,17 @@
 - 대한민국에서 활동 중인 풀스택 웹개발자입니다. (4년 8개월)
 - 현재 kt Colud TECH UP에서 풀스택 과정을 수료중입니다.📚
 
-## 💻 **기술 스택**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkj06&layout=compact&theme=radical)
+### 📫 Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkj960610@gmail.com)](nkj960610@gmail.com)
 
+---
+
+## 📈 **GitHub 통계**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkj06&layout=compact&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkj06&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 💻 **기술 스택**
 ### 언어
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
@@ -23,11 +31,6 @@
 ### 도구
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-## 📈 **GitHub 통계**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkj06&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📫 Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkj960610@gmail.com)](nkj960610@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com) -->
 
 
