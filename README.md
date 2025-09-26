@@ -13,8 +13,9 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### Contact
+### 📫Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkj960610@gmail.com)](nkj960610@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com) -->
 
 <!--
 **nkj06/nkj06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
