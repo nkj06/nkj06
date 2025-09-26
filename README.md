@@ -26,9 +26,7 @@
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com) -->
 
 ### 📈 **GitHub 통계**
-[GitHub-readme-stats](https://github.com/anuraghazra/github-readme-stats)를 이용해 자신의 GitHub 활동 통계를 보여줄 수 있습니다. 아래 코드를 복사해서 `username` 부분만 본인의 GitHub ID로 바꾸면 됩니다.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-nkj06&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
