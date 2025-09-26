@@ -1,4 +1,4 @@
-## 안녕하세요! 👋 저는 남경진입니다.
+## 안녕하세요! 👋 풀스택 개발자 남경진입니다.
 대한민국에서 활동 중인 풀스택 웹개발자입니다.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkj06&layout=compact&theme=radical)
