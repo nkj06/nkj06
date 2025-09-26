@@ -16,7 +16,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### 데이터베이스
-![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![mysql](https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 도구
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
